@@ -9,7 +9,7 @@ def find_largest(arr):
     return largest
 
 
-arr = [22, 48, 2, 8, 34, 59, 66]
+arr = [12, 58, 22, 18, 4, 9, 62]
 print("Array:", arr)
 
 result = find_largest(arr)

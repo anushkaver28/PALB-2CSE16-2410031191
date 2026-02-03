@@ -2,7 +2,7 @@ def kth_smallest(arr, k):
    
     return sorted(arr)[k - 1]
 
-arr = [17, 3, 2, 8, 5, 1]
+arr = [27, 13, 22, 88, 25, 11]
 k = 3
 
 print("Input array:", arr)

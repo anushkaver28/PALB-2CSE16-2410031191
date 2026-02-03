@@ -2,8 +2,8 @@ def find_union(arr1, arr2):
     return sorted(list(set(arr1) | set(arr2)))
 
 
-a = [4, 9, 1, 5, 2]
-b = [8, 7, 6, 3, 9]
+a = [6, 7, 2, 9, 1]
+b = [1, 3, 5, 3, 7]
 
 print("Array a:", a)
 print("Array b:", b)
